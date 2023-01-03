@@ -1,17 +1,22 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<img align="right" height="200" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
 
 ###
 
-<p align="left">My name is Onur</p>
+<h1 align="left">Hey! I'm Onur</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">I am currently developing myself on .Net</p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/onur-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/eemkoseonur" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
 </div>
 
 ###
@@ -37,20 +42,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=Onur-Kose" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&username=Onur-Kose" height="114" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Onur-Kose" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Onur-Kose" height="80" alt="languages graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="[https://spotify-recently-played-readme.vercel.app/api?count=5](https://open.spotify.com/track/6CIKjFIomOds56hmcYEMw9?si=05492509f3b04e28)" alt="Spotify recently played"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
