@@ -48,6 +48,9 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/Onur-Kose/Onur-Kose/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 **Onur-Kose/Onur-Kose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
