@@ -4,6 +4,15 @@
 
 <h1 align="left">Hey there! I'm Onur Köse</h1>
 
+🔭 I’m currently working on personal and freelance projects, and developing projects at Astor.
+- 🌱 I’m currently learning more about DevOps.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with advanced React patterns.
+- 💬 Ask me about anything related to .NET, React, and web development.
+- 📫 How to reach me: https://www.linkedin.com/in/onur-/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to explore new cultures through travel. 
+
 ###
 
 <p align="left">Passionate about crafting web solutions that elevate user experiences, I specialize in .NET, React, HTML, CSS, JavaScript, and SQL. With a keen eye for detail and a relentless drive for perfection, I'm constantly exploring new technologies to stay at the forefront of web development.</p>
@@ -52,12 +61,3 @@
 
 ###
 
-
-🔭 I’m currently working on personal and freelance projects, and developing projects at Astor.
-- 🌱 I’m currently learning more about DevOps.
-- 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with advanced React patterns.
-- 💬 Ask me about anything related to .NET, React, and web development.
-- 📫 How to reach me: https://www.linkedin.com/in/onur-/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to explore new cultures through travel. 
