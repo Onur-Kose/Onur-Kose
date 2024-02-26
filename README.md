@@ -4,7 +4,7 @@
 
 <h1 align="left">Hey there! I'm Onur Köse</h1>
 
-🔭 I’m currently working on personal and freelance projects, and developing projects at Astor.
+- 🔭 I’m currently working on personal and freelance projects, and developing projects at Astor.
 - 🌱 I’m currently learning more about DevOps.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with advanced React patterns.
