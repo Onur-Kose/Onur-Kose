@@ -52,8 +52,7 @@
 
 ###
 
-<--
-**(https://github.com/Onur-Kose)** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<-- **(https://github.com/Onur-Kose)** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -64,5 +63,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to .NET, React, and web development.
 - 📫 How to reach me: https://www.linkedin.com/in/onur-/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play chess and explore new cultures through travel.
--->
+- ⚡ Fun fact: I love to play chess and explore new cultures through travel. -->
