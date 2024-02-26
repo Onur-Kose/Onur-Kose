@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="mssql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt=".net core logo" />
-  <!-- Add or remove any technology you work with -->
+
 </div>
 
 </div>
@@ -52,15 +52,12 @@
 
 ###
 
-<!-- **(https://github.com/Onur-Kose)** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on personal and freelance projects.
-- 🌱 I’m currently learning more about cloud architectures and microservices.
+🔭 I’m currently working on personal and freelance projects, and developing projects at Astor.
+- 🌱 I’m currently learning more about DevOps.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with advanced React patterns.
 - 💬 Ask me about anything related to .NET, React, and web development.
 - 📫 How to reach me: https://www.linkedin.com/in/onur-/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play chess and explore new cultures through travel. -->
+- ⚡ Fun fact: I love to explore new cultures through travel. 
