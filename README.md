@@ -36,6 +36,10 @@ Passionate about crafting web solutions that elevate user experiences, I special
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="mssql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt=".net core logo" />
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" height="40" width="52" alt="Azure SQL Database Logo" />
+  <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" height="40" width="52" alt="PostMan logo" />
+  <img src="https://img.icons8.com/color/48/000000/swagger.png" height="40" width="52" alt="Swagger logo" />
+  
 
 </div>
 
