@@ -54,21 +54,21 @@ Passionate about crafting web solutions that elevate user experiences, I special
 
 #### Tools
 
-  ##### Databases
+  ##### -Databases
   - MS SQL Server
   - PgAdmin 4
   - Azure SQL Database
   
-  ##### IDE
+  ##### -IDE
   - Visual Studio
   - Visual Studio Code
   - Arduino IDE
   
-  ##### API Testing & Communication
+  ##### -API Testing & Communication
   - Postman
   - SwaggerUI
   
-  ##### Version Control
+  ##### -Version Control
   - GitHub
   - Git
   - Azure TFS
