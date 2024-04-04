@@ -1,6 +1,6 @@
-<img margin-top="8%" align="right" height="200" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ"  />
 
 <h1 align="left">Hey there! I'm Onur Köse</h1>
+<img margin-top="8%" align="right" height="200" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ"  />
 
 - 🔭 I’m currently working on personal and freelance projects, and developing projects at Astor.
 - 🌱 I’m currently learning more about DevOps.
