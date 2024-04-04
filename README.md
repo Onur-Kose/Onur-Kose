@@ -25,58 +25,58 @@ Passionate about crafting web solutions that elevate user experiences, I special
 <h2 align="left">Technologies I Work With</h2>
 
 #### Frameworks
-- ASP.Net WebApi ![ASP.Net WebApi](https://img.icons8.com/color/48/000000/asp.png "ASP.NET")
-- ASP.Net MVC ![ASP.Net MVC](https://img.icons8.com/color/48/000000/asp.png "ASP.NET MVC")
-- .Net Core ![.Net Core](https://img.icons8.com/color/48/000000/net-core.png ".NET Core")
-- React.js ![React.js](https://img.icons8.com/color/48/000000/react-native.png "React.js")
+- ASP.Net WebApi
+- ASP.Net MVC
+- .Net Core
+- React.js
 
 #### ORM
-- Entity Framework ![Entity Framework](https://img.icons8.com/color/48/000000/microsoft-sql-server.png "Entity Framework")
-- Entity Framework Core ![Entity Framework Core](https://img.icons8.com/color/48/000000/microsoft-sql-server.png "Entity Framework Core")
+- Entity Framework
+- Entity Framework Core
 
 #### Tools
 
 ##### Databases
-- MS SQL Server ![MS SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png "MS SQL Server")
-- PgAdmin 4 ![PgAdmin 4](https://img.icons8.com/color/48/000000/postgreesql.png "PgAdmin 4")
-- Azure SQL Database ![Azure SQL Database](https://img.icons8.com/color/48/000000/azure-1.png "Azure SQL Database")
+- MS SQL Server
+- PgAdmin 4
+- Azure SQL Database
 
 ##### IDE
-- Visual Studio ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png "Visual Studio")
-- Visual Studio Code ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "Visual Studio Code")
-- Arduino IDE ![Arduino IDE](https://img.icons8.com/color/48/000000/arduino.png "Arduino IDE")
+- Visual Studio
+- Visual Studio Code
+- Arduino IDE
 
 ##### API Testing & Communication
-- Postman ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png "Postman")
-- SwaggerUI ![SwaggerUI](https://img.icons8.com/color/48/000000/swagger.png "SwaggerUI")
+- Postman
+- SwaggerUI
 
 ##### Version Control
-- GitHub ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png "GitHub")
-- Git ![Git](https://img.icons8.com/color/48/000000/git.png "Git")
-- Azure TFS ![Azure TFS](https://img.icons8.com/color/48/000000/azure-1.png "Azure TFS")
+- GitHub
+- Git
+- Azure TFS
 
 #### Web Design Tools
-- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png "HTML")
-- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png "CSS")
-- SCSS ![SCSS](https://img.icons8.com/color/48/000000/sass.png "SCSS")
-- Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png "Bootstrap")
+- HTML
+- CSS
+- SCSS
+- Bootstrap
 
 #### Programming Languages
-- C# ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png "C#")
-- C ![C](https://img.icons8.com/color/48/000000/c-programming.png "C")
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png "JavaScript")
+- C#
+- C
+- JavaScript
 
 #### Database Technologies
-- Microsoft SQL ![Microsoft SQL](https://img.icons8.com/color/48/000000/microsoft-sql-server.png "Microsoft SQL")
-- PostgreSQL ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png "PostgreSQL")
+- Microsoft SQL
+- PostgreSQL
 
 #### Software Project Development
 
 ##### Methodology
-- Agile Scrum ![Agile Scrum](https://img.icons8.com/color/48/000000/agile.png "Agile Scrum")
+- Agile Scrum
 
 ##### DevOps
-- Microsoft Azure DevOps ![Microsoft Azure DevOps](https://img.icons8.com/color/48/000000/azure-1.png "Microsoft Azure DevOps")
+- Microsoft Azure DevOps
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Onur-Kose&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
