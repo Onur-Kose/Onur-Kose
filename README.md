@@ -93,13 +93,12 @@ Passionate about crafting web solutions that elevate user experiences, I special
 
 #### Software Project Development
 
-##### Methodology
+##### -Methodology
 - Agile Scrum
 
-##### DevOps
+##### -DevOps
 - Microsoft Azure DevOps
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onur-Kose&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Kose&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Kose&layout=compact&theme=dracula" height="250" alt="Top Languages" />
 </div>
