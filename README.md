@@ -23,8 +23,10 @@ Passionate about crafting web solutions that elevate user experiences, I special
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
-<img src="https://camo.githubusercontent.com/94b33bd991f6c3135af747bdf27361be43e797c0fce678b62ed5aef57e9d8bd7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/>
-<h2 align="left">Technologies I Work With</h2>
+<div style="display: flex; align-items: center;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqnqtmob8g9aid1oyj2wr3ds3smg700b&rid=giphy.gif" style="max-width: 100px; margin-right: 20px;" />
+  <h2>Technologies I Work With</h2>
+</div>
 <div align="left">
 <div align="left">
   <img src="https://camo.githubusercontent.com/ffd36f58644a0becb0773b8c7a3d772b12d978351528fdaf889d6831c6dae434/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2e737667" height="40" width="52" alt="dot-net logo" />
