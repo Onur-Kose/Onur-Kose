@@ -24,7 +24,7 @@ Passionate about crafting web solutions that elevate user experiences, I special
   </a>
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqnqtmob8g9aid1oyj2wr3ds3smg700b&rid=giphy.gif" style="max-width: 100px; margin-right: 20px;" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqnqtmob8g9aid1oyj2wr3ds3smg700b&rid=giphy.gif" style="max-width: 10px; margin-right: 20px;" />
   <h2>Technologies I Work With</h2>
 </div>
 <div align="left">
