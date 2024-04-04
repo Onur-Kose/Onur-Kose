@@ -1,7 +1,5 @@
 <img align="right" height="200" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
 
-###
-
 <h1 align="left">Hey there! I'm Onur Köse</h1>
 
 - 🔭 I’m currently working on personal and freelance projects, and developing projects at Astor.
@@ -11,13 +9,9 @@
 - 💬 Ask me about anything related to .NET, React, and web development.
 - 📫 How to reach me: https://www.linkedin.com/in/onur-/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to explore new cultures through travel. 
+- ⚡ Fun fact: I love to explore new cultures through travel.
 
-###
-
-<p align="left">Passionate about crafting web solutions that elevate user experiences, I specialize in .NET, React, HTML, CSS, JavaScript, and SQL. With a keen eye for detail and a relentless drive for perfection, I'm constantly exploring new technologies to stay at the forefront of web development.</p>
-
-###
+Passionate about crafting web solutions that elevate user experiences, I specialize in .NET, React, HTML, CSS, JavaScript, and SQL. With a keen eye for detail and a relentless drive for perfection, I'm constantly exploring new technologies to stay at the forefront of web development.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/onur-/" target="_blank">
@@ -28,36 +22,63 @@
   </a>
 </div>
 
-###
+<h2 align="left">Technologies I Work With</h2>
 
-<h2 align="left">Technologies I work with</h2>
+#### Frameworks
+- ASP.Net WebApi ![ASP.Net WebApi](https://img.icons8.com/color/48/000000/asp.png "ASP.NET")
+- ASP.Net MVC ![ASP.Net MVC](https://img.icons8.com/color/48/000000/asp.png "ASP.NET MVC")
+- .Net Core ![.Net Core](https://img.icons8.com/color/48/000000/net-core.png ".NET Core")
+- React.js ![React.js](https://img.icons8.com/color/48/000000/react-native.png "React.js")
 
-###
+#### ORM
+- Entity Framework ![Entity Framework](https://img.icons8.com/color/48/000000/microsoft-sql-server.png "Entity Framework")
+- Entity Framework Core ![Entity Framework Core](https://img.icons8.com/color/48/000000/microsoft-sql-server.png "Entity Framework Core")
 
-<div align="left">
-<div align="left">
-  <img src="https://camo.githubusercontent.com/ffd36f58644a0becb0773b8c7a3d772b12d978351528fdaf889d6831c6dae434/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2e737667" height="40" width="52" alt="dot-net logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="mssql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt=".net core logo" />
+#### Tools
 
-</div>
+##### Databases
+- MS SQL Server ![MS SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png "MS SQL Server")
+- PgAdmin 4 ![PgAdmin 4](https://img.icons8.com/color/48/000000/postgreesql.png "PgAdmin 4")
+- Azure SQL Database ![Azure SQL Database](https://img.icons8.com/color/48/000000/azure-1.png "Azure SQL Database")
 
-</div>
+##### IDE
+- Visual Studio ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png "Visual Studio")
+- Visual Studio Code ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "Visual Studio Code")
+- Arduino IDE ![Arduino IDE](https://img.icons8.com/color/48/000000/arduino.png "Arduino IDE")
 
-###
+##### API Testing & Communication
+- Postman ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png "Postman")
+- SwaggerUI ![SwaggerUI](https://img.icons8.com/color/48/000000/swagger.png "SwaggerUI")
+
+##### Version Control
+- GitHub ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png "GitHub")
+- Git ![Git](https://img.icons8.com/color/48/000000/git.png "Git")
+- Azure TFS ![Azure TFS](https://img.icons8.com/color/48/000000/azure-1.png "Azure TFS")
+
+#### Web Design Tools
+- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png "HTML")
+- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png "CSS")
+- SCSS ![SCSS](https://img.icons8.com/color/48/000000/sass.png "SCSS")
+- Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png "Bootstrap")
+
+#### Programming Languages
+- C# ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png "C#")
+- C ![C](https://img.icons8.com/color/48/000000/c-programming.png "C")
+- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png "JavaScript")
+
+#### Database Technologies
+- Microsoft SQL ![Microsoft SQL](https://img.icons8.com/color/48/000000/microsoft-sql-server.png "Microsoft SQL")
+- PostgreSQL ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png "PostgreSQL")
+
+#### Software Project Development
+
+##### Methodology
+- Agile Scrum ![Agile Scrum](https://img.icons8.com/color/48/000000/agile.png "Agile Scrum")
+
+##### DevOps
+- Microsoft Azure DevOps ![Microsoft Azure DevOps](https://img.icons8.com/color/48/000000/azure-1.png "Microsoft Azure DevOps")
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Onur-Kose&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Kose&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
-
-###
-
