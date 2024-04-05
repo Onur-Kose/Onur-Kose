@@ -24,9 +24,10 @@ Passionate about crafting web solutions that elevate user experiences, I special
   </a>
 </div>
 <div style="display: flex; align-items: center;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqnqtmob8g9aid1oyj2wr3ds3smg700b&rid=giphy.gif" style="height: 1.5em; margin-right: 20px;" />
   <h2>Technologies I Work With</h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqnqtmob8g9aid1oyj2wr3ds3smg700b&rid=giphy.gif" style="max-width: 1px; margin-right: 20px;" />
 </div>
+
 <div align="left">
 <div align="left">
   <img src="https://camo.githubusercontent.com/ffd36f58644a0becb0773b8c7a3d772b12d978351528fdaf889d6831c6dae434/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2e737667" height="40" width="52" alt="dot-net logo" />
