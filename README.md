@@ -25,7 +25,7 @@ Passionate about crafting web solutions that elevate user experiences, I special
 </div>
 <div style="display: flex; align-items: center;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqnqtmob8g9aid1oyj2wr3ds3smg700b&rid=giphy.gif" style="height: 50px; margin-right: 20px;" />
-  <h2 style="margin: 0;">Technologies I Work With</h2>
+  <h2 style="margin: 0 ; with:"70%";">Technologies I Work With</h2>
 </div>
 
 
