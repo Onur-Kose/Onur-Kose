@@ -95,6 +95,7 @@ Passionate about crafting web solutions that elevate user experiences, I special
 - C#
 - C
 - JavaScript
+- TR-Object
 
 #### Database Technologies
 - Microsoft SQL
