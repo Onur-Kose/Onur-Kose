@@ -37,6 +37,7 @@ Passionate about crafting web solutions that elevate user experiences, I special
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
+  <img src="https://i0.wp.com/clomosy.com.tr/wp-content/uploads/2024/04/960x720.2.png?fit=961%2C720&ssl=1" height="40" width="52" alt="Clomosy logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
@@ -45,6 +46,7 @@ Passionate about crafting web solutions that elevate user experiences, I special
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo" />
   <img src="https://www.svgrepo.com/show/331759/sql-azure.svg" height="40" width="52" alt="Azure SQL Database Logo" />
 
+  
   
 
 </div>
