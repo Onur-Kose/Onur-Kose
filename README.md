@@ -10,7 +10,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/onur-/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to explore new cultures through travel.
-- 👨‍💻 My Web Side : [Onur-Kose/Onur-Kose.github.io](https://onur-kose.github.io/)
+- 👨‍💻 My Web Side : https://onur-kose.github.io/
 
 
 Passionate about crafting web solutions that elevate user experiences, I specialize in .NET, React, HTML, CSS, JavaScript, and SQL. With a keen eye for detail and a relentless drive for perfection, I'm constantly exploring new technologies to stay at the forefront of web development.
