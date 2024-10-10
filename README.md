@@ -32,11 +32,11 @@ Passionate about crafting web solutions that elevate user experiences, I special
 
 <div align="left">
 <div align="left">
-  <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" height="52" width="52" alt="dot-net logo" />
+  <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" height="40" width="40" alt="dot-net logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt=".net core logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" />
   <img src="https://i0.wp.com/clomosy.com.tr/wp-content/uploads/2024/01/clomosycloudmobilesystem-e1723812583388.png?fit=80%2C80&ssl=1" height="40" width="52" alt="Clomosy logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
