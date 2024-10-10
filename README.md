@@ -32,7 +32,7 @@ Passionate about crafting web solutions that elevate user experiences, I special
 
 <div align="left">
 <div align="left">
-  <img src="https://camo.githubusercontent.com/ffd36f58644a0becb0773b8c7a3d772b12d978351528fdaf889d6831c6dae434/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2e737667" height="40" width="52" alt="dot-net logo" />
+  <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" height="40" width="52" alt="dot-net logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt=".net core logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" />
