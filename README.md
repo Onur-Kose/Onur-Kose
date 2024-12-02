@@ -75,6 +75,7 @@ Passionate about crafting web solutions that elevate user experiences, I special
   - Visual Studio
   - Visual Studio Code
   - Arduino IDE
+  - Remix IDE
   
   ##### -API Testing & Communication
   - Postman
@@ -96,6 +97,7 @@ Passionate about crafting web solutions that elevate user experiences, I special
 - C
 - JavaScript
 - TRObject
+- Solidity
 
 #### Database Technologies
 - Microsoft SQL
