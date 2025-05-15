@@ -1,64 +1,115 @@
-<h1 align="center">Hey there! I'm Onur Köse 👋</h1>
+<h1 align="left">Hey there! I'm Onur Köse</h1>
+<img margin-top="8%" align="right" height="200" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ"  />
 
-<p align="center">
-  💻 .NET Fullstack Developer | 🚀 React & DevOps Enthusiast <br />
-  🌍 Based in Ankara, Turkey • 📫 <a href="https://www.linkedin.com/in/onur-/">Let's connect!</a>
-</p>
+- 🔭 I’m currently working on personal and freelance projects, and developing projects at Astor.
+- 🌱 I’m currently learning more about DevOps.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with advanced React patterns.
+- 💬 Ask me about anything related to .NET, React, and web development.
+- 📫 How to reach me: https://www.linkedin.com/in/onur-/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to explore new cultures through travel.
+- 👨‍💻 My Web Side : https://www.onurkose.com.tr  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif" height="200" alt="coder gif" />
-</p>
 
----
+Passionate about crafting web solutions that elevate user experiences, I specialize in .NET, React, HTML, CSS, JavaScript, and SQL. With a keen eye for detail and a relentless drive for perfection, I'm constantly exploring new technologies to stay at the forefront of web development.
 
-### 🚀 About Me
+<div align="left">
+  <a href="https://www.linkedin.com/in/onur-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/eemkoseonur" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
+<div style="display: flex; align-items: center;">
 
-- 🔭 Currently working on freelance projects & building at **Astor**  
-- 🌱 Learning more about **DevOps**, cloud and scalable architectures  
-- 🤝 Open to collaborating on **open-source projects**  
-- 💬 Ask me about **.NET**, **React**, and **web development**  
-- 🌐 Website: [onurkose.com.tr](https://www.onurkose.com.tr)
+  <h2 >Technologies I Work With</h2>
+</div>
 
----
 
-### 🧰 Technologies & Tools
 
-#### 👨‍💻 Languages & Frameworks
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) 
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET-MVC-blue)
+<div align="left">
+<div align="left">
+  <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" height="40" width="40" alt="dot-net logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt=".net core logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" />
+  <img src="https://i0.wp.com/clomosy.com.tr/wp-content/uploads/2024/01/clomosycloudmobilesystem-e1723812583388.png?fit=80%2C80&ssl=1" height="40" width="52" alt="Clomosy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="mssql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo" />
+  <img src="https://www.svgrepo.com/show/331759/sql-azure.svg" height="40" width="52" alt="Azure SQL Database Logo" />
 
-#### 🗃️ Databases
-![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) 
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) 
-![Azure SQL](https://www.svgrepo.com/show/331759/sql-azure.svg)
+  
+  
 
-#### 🧰 Tools
-![Visual Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg) 
-![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)  
-![Postman](https://img.shields.io/badge/Postman-F46B42?logo=postman&logoColor=white)  
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+</div>
 
-#### 🔃 Version Control & DevOps
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)
+</div>
+</div>
 
----
+#### Frameworks
+- ASP.Net WebApi
+- ASP.Net MVC
+- .Net Core
+- React.js
 
-### 📊 GitHub Stats
+#### ORM
+- Entity Framework
+- Entity Framework Core
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Kose&layout=compact&theme=dracula" height="200"/>
-</p>
+#### Tools
 
----
+  ##### -Databases
+  - MS SQL Server
+  - PgAdmin 4
+  - Azure SQL Database
+  
+  ##### -IDE
+  - Visual Studio
+  - Visual Studio Code
+  - Arduino IDE
+  - Remix IDE
+  
+  ##### -API Testing & Communication
+  - Postman
+  - SwaggerUI
+  
+  ##### -Version Control
+  - GitHub
+  - Git
+  - Azure TFS
 
-### 🌐 Socials
+#### Web Design Tools
+- HTML
+- CSS
+- SCSS
+- Bootstrap
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/onur-/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" /></a>
-  <a href="https://www.hackerrank.com/profile/eemkoseonur"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="36" /></a>
-</p>
+#### Programming Languages
+- C#
+- C
+- JavaScript
+- TRObject
+- Solidity
+
+#### Database Technologies
+- Microsoft SQL
+- PostgreSQL
+
+#### Software Project Development
+
+##### -Methodology
+- Agile Scrum
+
+##### -DevOps
+- Microsoft Azure DevOps
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Kose&layout=compact&theme=dracula" height="250" alt="Top Languages" />
+</div>
