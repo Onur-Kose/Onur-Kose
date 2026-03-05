@@ -25,7 +25,8 @@
 
 - ASP.NET Web API  
 - ASP.NET MVC  
-- .NET Core  
+- .NET Core
+- NEXT.js
 
 ### Frontend
 <div align="left">
@@ -53,7 +54,8 @@
 
 ### ORM
 - Entity Framework  
-- Entity Framework Core  
+- Entity Framework Core
+- Prisma
 
 ### Tools & IDE
 - Visual Studio  
