@@ -76,6 +76,7 @@
 - Visual Studio Code
 - Postman
 - Swagger UI
+- Scalar API
 - Git & GitHub
 - Azure DevOps, TFS
 
