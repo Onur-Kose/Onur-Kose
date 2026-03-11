@@ -19,13 +19,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" title=".NET Core"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" title="RabbitMQ"/>
 </div>
 
 - ASP.NET Web API
 - ASP.NET MVC
 - .NET Core
-- RabbitMQ
 
 ### Frontend
 
@@ -62,23 +60,27 @@
 
 ### ORM
 
-- Entity Framework
-- Entity Framework Core
-- Prisma
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="18" style="vertical-align:middle"/> Entity Framework
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="18" style="vertical-align:middle"/> Entity Framework Core
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="18" style="vertical-align:middle"/> Prisma
 
 ### Message Broker
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" title="RabbitMQ"/>
+</div>
 
 - RabbitMQ
 
 ### Tools & IDE
 
-- Visual Studio
-- Visual Studio Code
-- Postman
-- Swagger UI
-- Scalar API
-- Git & GitHub
-- Azure DevOps, TFS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="18" style="vertical-align:middle"/> Visual Studio
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="18" style="vertical-align:middle"/> Visual Studio Code
+- <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="18" style="vertical-align:middle"/> Postman
+- <img src="https://www.svgrepo.com/show/374111/swagger.svg" height="18" style="vertical-align:middle"/> Swagger UI
+- <img src="https://scalar.com/favicon.svg" height="18" style="vertical-align:middle"/> Scalar API
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="18" style="vertical-align:middle"/> Git & GitHub
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="18" style="vertical-align:middle"/> Azure DevOps, TFS
 
 ---
 
