@@ -56,7 +56,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="16"/> Visual Studio Code
 - <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="16"/> Postman
 - <img src="https://www.svgrepo.com/show/374111/swagger.svg" height="16"/> Swagger UI
-- <img src="https://cdn.scalar.com/marketing/landing/logo-dark.svg" height="16"/> Scalar API
+- <img src="https://raw.githubusercontent.com/scalar/scalar/main/apps/web/public/logo.svg" height="16"/> Scalar API
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="16"/> Git & GitHub
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="16"/> Azure DevOps, TFS
 
