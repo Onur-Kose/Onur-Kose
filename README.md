@@ -113,13 +113,6 @@ A smart-contract-based membership prototype built while exploring Solidity, wall
 
 </div>
 
-## GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Onur-Kose&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="Onur Köse's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Kose&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages" />
-</div>
-
 ---
 
 <div align="center">
