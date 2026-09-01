@@ -1,21 +1,16 @@
 <div align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Onur Köse — Full-stack software engineer with a backend focus" />
 
-# Onur Köse
+  <br>
 
-### Full-stack software engineer with a backend focus
-
-I build software around real business workflows: planning, approvals, reporting,  
-notifications, integrations, and the infrastructure that keeps them reliable.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-onurkose.com.tr-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://www.onurkose.com.tr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-/)
-![Location](https://img.shields.io/badge/Ankara-Türkiye-B91C1C?style=flat-square)
-
+  [![Portfolio](https://img.shields.io/badge/Portfolio-onurkose.com.tr-0F172A?style=flat-square&logo=googlechrome&logoColor=white)](https://www.onurkose.com.tr)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-/)
+  ![Location](https://img.shields.io/badge/Ankara-Türkiye-334155?style=flat-square)
 </div>
 
----
+<br>
 
-## What I build
+## Building across the stack
 
 My production work is centered on **ASP.NET Core, C#, SQL Server, React, and TypeScript**. I work across the full lifecycle of a feature—from data modelling and API design to the interface, deployment, and production troubleshooting.
 
@@ -46,17 +41,21 @@ Excel/VBA engineering integrations
 </tr>
 </table>
 
+<br>
+
 ## Selected work
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
+<sub>ENTERPRISE PLATFORM</sub>
+
 ### Design Management System
 
-An enterprise platform used by engineering teams to manage projects from planning through approval and completion.
+Used by engineering teams to manage projects from planning through approval and completion.
 
-It brings workload distribution, customer approval cycles, deadlines, reporting, and real-time status updates into a single workflow.
+It connects workload distribution, customer approval cycles, deadlines, reporting, and real-time status updates in one operational workflow.
 
 `ASP.NET Core` `React` `SQL Server`  
 `RabbitMQ` `SignalR` `JWT`
@@ -64,9 +63,11 @@ It brings workload distribution, customer approval cycles, deadlines, reporting,
 </td>
 <td width="50%" valign="top">
 
-### [FluentTaskScheduler](https://github.com/Onur-Kose/FluentTaskScheduler)
+<sub>OPEN-SOURCE .NET LIBRARY</sub>
 
-A .NET scheduling library with a fluent API, created to make recurring background-task definitions easier to read and maintain.
+### [FluentTaskScheduler ↗](https://github.com/Onur-Kose/FluentTaskScheduler)
+
+A fluent scheduling API that keeps recurring background-task definitions readable and maintainable.
 
 <br>
 
@@ -77,9 +78,11 @@ A .NET scheduling library with a fluent API, created to make recurring backgroun
 <tr>
 <td width="50%" valign="top">
 
-### [Ayçiçek Promosyon](https://aycicekpromosyon.com.tr)
+<sub>FULL-STACK COMMERCE</sub>
 
-A full-stack product platform with an administration panel for product, category, and content management.
+### [Ayçiçek Promosyon ↗](https://aycicekpromosyon.com.tr)
+
+A product platform with an administration panel for managing products, categories, and content.
 
 `Next.js` `TypeScript` `Prisma`  
 `PostgreSQL` `Docker`
@@ -87,9 +90,11 @@ A full-stack product platform with an administration panel for product, category
 </td>
 <td width="50%" valign="top">
 
-### [GymMembershipDApp](https://github.com/Onur-Kose/GymMembershipDApp)
+<sub>WEB3 PROTOTYPE</sub>
 
-A smart-contract-based membership prototype built while exploring Solidity, wallet interaction, and decentralized application workflows.
+### [GymMembershipDApp ↗](https://github.com/Onur-Kose/GymMembershipDApp)
+
+A smart-contract membership prototype exploring Solidity, wallet interaction, and decentralized application workflows.
 
 `Solidity` `Web3` `Smart Contracts`
 
@@ -97,27 +102,35 @@ A smart-contract-based membership prototype built while exploring Solidity, wall
 </tr>
 </table>
 
+<br>
+
 ## Core stack
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-Open to remote international opportunities and collaborations where  
-backend engineering, system design, and practical product ownership matter.
+**Open to remote international opportunities and technical collaborations.**
+
+Backend engineering · System design · End-to-end product ownership
 
 </div>
