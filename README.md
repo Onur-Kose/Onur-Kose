@@ -2,10 +2,10 @@
 
 # Onur Köse
 
-### Full-stack software engineer · Backend-focused
+### Full-stack software engineer with a backend focus
 
-I design and build the systems behind real business workflows — from data models and APIs  
-to real-time interfaces, automation, deployment, and production support.
+I build software around real business workflows: planning, approvals, reporting,  
+notifications, integrations, and the infrastructure that keeps them reliable.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-onurkose.com.tr-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://www.onurkose.com.tr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-/)
@@ -13,112 +13,91 @@ to real-time interfaces, automation, deployment, and production support.
 
 </div>
 
-<br>
+---
 
-<h2 align="center">What I build</h2>
+## What I build
 
-<p align="center">
-My production work is centered on <strong>ASP.NET Core, C#, SQL Server, React, and TypeScript</strong>.<br>
-I work across the full lifecycle of a feature, not just one layer of it.
-</p>
+My production work is centered on **ASP.NET Core, C#, SQL Server, React, and TypeScript**. I work across the full lifecycle of a feature—from data modelling and API design to the interface, deployment, and production troubleshooting.
 
-<table width="100%">
+<table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### Backend
+**Backend & architecture**
 
-REST APIs  
-Domain and application services  
-Authentication and authorization  
-Background workers
-
-</td>
-<td width="34%" align="center" valign="top">
-
-### Data & messaging
-
-SQL Server modelling  
-Reporting and query optimization  
-RabbitMQ workflows  
-Real-time events with SignalR
+- REST APIs and backend services
+- Role-based workflows and authorization
+- Background jobs and asynchronous processing
+- Database modelling and reporting
+- Production troubleshooting
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### Delivery
+**Product & delivery**
 
-React and Next.js interfaces  
-IIS and Docker deployments  
-Production troubleshooting  
-Excel/VBA integrations
+- Real-time dashboards with SignalR
+- React and Next.js interfaces
+- RabbitMQ workflow automation
+- IIS and Docker deployments
+- Excel/VBA engineering integrations
 
 </td>
 </tr>
 </table>
 
-<br>
+## Selected work
 
-<h2 align="center">Selected work</h2>
-
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">Design Management System</h3>
+### Design Management System
 
-<p align="center"><strong>Enterprise workflow platform</strong></p>
+An enterprise platform used by engineering teams to manage projects from planning through approval and completion.
 
-An internal system used by engineering teams to manage projects from planning through approval and completion.
+It brings workload distribution, customer approval cycles, deadlines, reporting, and real-time status updates into a single workflow.
 
-It connects workload distribution, customer approval cycles, deadlines, reporting, and live status updates in one operational workflow.
-
-<p align="center"><code>ASP.NET Core</code> <code>React</code> <code>SQL Server</code><br><code>RabbitMQ</code> <code>SignalR</code> <code>JWT</code></p>
+`ASP.NET Core` `React` `SQL Server`  
+`RabbitMQ` `SignalR` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/Onur-Kose/FluentTaskScheduler">FluentTaskScheduler</a></h3>
+### [FluentTaskScheduler](https://github.com/Onur-Kose/FluentTaskScheduler)
 
-<p align="center"><strong>Readable background scheduling for .NET</strong></p>
-
-A focused .NET library with a fluent API for defining recurring background tasks clearly and keeping scheduling configuration maintainable.
+A .NET scheduling library with a fluent API, created to make recurring background-task definitions easier to read and maintain.
 
 <br>
 
-<p align="center"><code>.NET</code> <code>C#</code> <code>Background Services</code></p>
+`.NET` `C#` `Background Services`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://aycicekpromosyon.com.tr">Ayçiçek Promosyon</a></h3>
+### [Ayçiçek Promosyon](https://aycicekpromosyon.com.tr)
 
-<p align="center"><strong>Full-stack product platform</strong></p>
+A full-stack product platform with an administration panel for product, category, and content management.
 
-A customer-facing product website with an administration panel for managing products, categories, and content.
-
-<p align="center"><code>Next.js</code> <code>TypeScript</code> <code>Prisma</code><br><code>PostgreSQL</code> <code>Docker</code></p>
+`Next.js` `TypeScript` `Prisma`  
+`PostgreSQL` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/Onur-Kose/GymMembershipDApp">GymMembershipDApp</a></h3>
+### [GymMembershipDApp](https://github.com/Onur-Kose/GymMembershipDApp)
 
-<p align="center"><strong>Smart-contract membership prototype</strong></p>
+A smart-contract-based membership prototype built while exploring Solidity, wallet interaction, and decentralized application workflows.
 
-An exploration of Solidity, wallet interaction, and decentralized application workflows through membership operations.
-
-<p align="center"><code>Solidity</code> <code>Web3</code> <code>Smart Contracts</code></p>
+`Solidity` `Web3` `Smart Contracts`
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<h2 align="center">Core stack</h2>
+## Core stack
 
 <div align="center">
 
@@ -127,7 +106,6 @@ An exploration of Solidity, wallet interaction, and decentralized application wo
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -135,11 +113,11 @@ An exploration of Solidity, wallet interaction, and decentralized application wo
 
 </div>
 
-<br>
-
 ---
 
-<p align="center">
-<strong>Open to remote international opportunities and technical collaborations.</strong><br>
-Backend engineering · System design · End-to-end product ownership
-</p>
+<div align="center">
+
+Open to remote international opportunities and collaborations where  
+backend engineering, system design, and practical product ownership matter.
+
+</div>
