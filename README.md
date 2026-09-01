@@ -1,76 +1,50 @@
-<h1 align="left">Hey there! I'm Onur Köse 👋</h1>
+<h1 align="left">Onur Köse</h1>
 
-🎯 **Fullstack .NET Developer | React & Next.js Developer**
+**Full-stack software engineer with a backend focus**
 
-- 🔭 I develop corporate software at Astor while also working on personal and freelance projects.
-- 🚀 I focus on .NET, React, Next.js, TypeScript, SQL, PWA, RabbitMQ, and M-Files integration.
-- 🤝 Open to collaborating on open-source projects.
-- 💬 Feel free to ask me anything related to .NET, React, TypeScript, or API design.
-- 👨‍💻 My Website: **https://www.onurkose.com.tr**
-- 📫 Contact me: **https://www.linkedin.com/in/onur-/**
-- ⚡ Fun fact: I enjoy experimenting with new technologies.
+I build software around real business workflows: planning, approvals, reporting, notifications, integrations, and the infrastructure that keeps them reliable.
 
----
+My production work is centered on **ASP.NET Core, C#, SQL Server, React, and TypeScript**. I work across the full lifecycle of a feature—from data modelling and API design to the interface, deployment, and production troubleshooting.
 
-## 🛠️ Technologies I Work With
+Based in Ankara, Türkiye, and currently building enterprise systems for engineering teams.
 
-### Backend & API
+## What I build
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="16"/> ASP.NET Web API
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="16"/> ASP.NET MVC
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="16"/> .NET Core
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="16"/> C#
+- REST APIs and backend services with ASP.NET Core
+- Role-based workflows, authentication, and authorization
+- Real-time dashboards and notifications with SignalR
+- Asynchronous processing with RabbitMQ and background services
+- SQL Server data models, reporting queries, and performance improvements
+- React and Next.js interfaces for operational and customer-facing products
+- IIS and Docker deployments, maintenance, and production support
+- .NET libraries that connect engineering calculations with Excel/VBA workflows
 
-### Frontend
+## Selected work
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16"/> React.js
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="16"/> Next.js
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="16"/> TypeScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16"/> JavaScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="16"/> HTML5
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="16"/> CSS3
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="16"/> Bootstrap
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="16"/> Tailwind CSS
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="16"/> SCSS
-- 📱 PWA — Service Worker & Push Notification
+### Design Management System
 
-### Databases
+An internal platform used by engineering teams to manage projects from planning through approval and completion. It brings workload distribution, customer approval cycles, deadlines, reporting, and real-time status updates into a single workflow.
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="16"/> MS SQL Server
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="16"/> PostgreSQL
-- <img src="https://www.svgrepo.com/show/331759/sql-azure.svg" height="16"/> Azure SQL
+**ASP.NET Core · React · TypeScript · SQL Server · Entity Framework Core · RabbitMQ · SignalR · JWT**
 
-### ORM
+### [FluentTaskScheduler](https://github.com/Onur-Kose/FluentTaskScheduler)
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="16"/> Entity Framework
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="16"/> Entity Framework Core
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="16"/> Prisma
+A .NET scheduling library with a fluent API, created to make recurring background-task definitions easier to read and maintain.
 
-### Message Broker
+### [Ayçiçek Promosyon](https://aycicekpromosyon.com.tr)
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="16"/> RabbitMQ
+A full-stack product platform with an administration panel for product, category, and content management. Built with Next.js, TypeScript, Prisma, PostgreSQL, and Docker, with a focus on responsive design, SEO, and deployment consistency.
 
-### Tools & IDE
+### [GymMembershipDApp](https://github.com/Onur-Kose/GymMembershipDApp)
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="16"/> Visual Studio
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="16"/> Visual Studio Code
-- <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="16"/> Postman
-- <img src="https://www.svgrepo.com/show/374111/swagger.svg" height="16"/> Swagger UI
-- <img src="https://raw.githubusercontent.com/scalar/scalar/main/apps/web/public/logo.svg" height="16"/> Scalar API
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="16"/> Git & GitHub
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="16"/> Azure DevOps, TFS
+A prototype for smart-contract-based gym membership operations and Web3 wallet interaction, developed while exploring Solidity and decentralized application workflows.
 
----
+## Core stack
 
-## 📊 GitHub Stats
+`C#` · `.NET / ASP.NET Core` · `Entity Framework Core` · `SQL Server` · `PostgreSQL` · `RabbitMQ` · `SignalR` · `React` · `Next.js` · `TypeScript` · `Docker`
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Kose&layout=compact&theme=dracula" height="200" />
-</div>
+## Contact
 
----
+[Website](https://www.onurkose.com.tr) · [LinkedIn](https://www.linkedin.com/in/onur-/)
 
-## 🧩 About Me
-
-I'm a detail-oriented fullstack developer who enjoys building end-to-end software solutions with a strong focus on usability and clean architecture.
-I combine my corporate experience with my personal development projects to create more robust, scalable, and user-friendly applications.
+Open to remote international opportunities and collaborations where backend engineering, system design, and practical product ownership matter.
