@@ -19,28 +19,28 @@ notifications, integrations, and the infrastructure that keeps them reliable.
 
 My production work is centered on **ASP.NET Core, C#, SQL Server, React, and TypeScript**. I work across the full lifecycle of a feature—from data modelling and API design to the interface, deployment, and production troubleshooting.
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 **Backend & architecture**
 
-- REST APIs and backend services
-- Role-based workflows and authorization
-- Background jobs and asynchronous processing
-- Database modelling and reporting
-- Production troubleshooting
+REST APIs and backend services<br>
+Role-based workflows and authorization<br>
+Background jobs and asynchronous processing<br>
+Database modelling and reporting<br>
+Production troubleshooting
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 **Product & delivery**
 
-- Real-time dashboards with SignalR
-- React and Next.js interfaces
-- RabbitMQ workflow automation
-- IIS and Docker deployments
-- Excel/VBA engineering integrations
+Real-time dashboards with SignalR<br>
+React and Next.js interfaces<br>
+RabbitMQ workflow automation<br>
+IIS and Docker deployments<br>
+Excel/VBA engineering integrations
 
 </td>
 </tr>
